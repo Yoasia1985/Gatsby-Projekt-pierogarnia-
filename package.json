@@ -27,7 +27,7 @@
     "react-helmet": "^6.1.0",
     "react-icons": "^4.2.0",
     "react-id-swiper": "^4.0.0",
-    "sass": "^1.32.8",
+    "sass": "^1.41.1",
     "styled-components": "^5.2.3",
     "swiper": "^6.5.6"
   },
